@@ -1,8 +1,1 @@
-Python 3.8
-pip install -r requirements.txt
-pip install -r sort/requirements.txt
-pip install --only-binary :all: lap
-pip install -U torch torchvision
-pip install Pillow==9.5.0
-
 
