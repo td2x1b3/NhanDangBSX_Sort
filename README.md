@@ -22,3 +22,4 @@ Sau khi cài đặt xong tất cả các thư viện thì lần lượt chạy c
 1. main.py
 2. add_missing_data.py
 3. visualize.py
+![Kết quả nhận dạng biển số xe](result.png)
