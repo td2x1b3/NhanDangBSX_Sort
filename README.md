@@ -4,7 +4,7 @@
 
 ## Video test
 
-[Xem video demo tại đây](https://drive.google.com/file/d/1z6DV3JsuzPOsG3fANfSsLD1Yd8hrAqiY/view)
+[Tải video test](https://drive.google.com/file/d/1z6DV3JsuzPOsG3fANfSsLD1Yd8hrAqiY/view)
 Copy tệp video ngang hàng với file main.py
 
 ## Cài đặt
